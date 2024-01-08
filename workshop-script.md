@@ -111,7 +111,8 @@ And answer the questions:
 * Then it asks for permission to access that repo on GitHub.
 
    > **Note** If the presenter is using gitpod, then they'll need to use a GitHub
-   > access token to do this. There's no need to explain the details. The
+   > access token to do this (note - it needs to be a classic token, to
+   > provide the expected fields). There's no need to explain the details. The
    > audience will probably want to use the GitHub app.
    >
    > (It will show the token! So explain “not going to show you my token!” and
